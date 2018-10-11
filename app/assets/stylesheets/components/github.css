@@ -1,0 +1,19 @@
+/*-------------------PORTFOLIO--------------------*/
+#portfolio{
+	background-color:#0BC8B6; 
+}
+#portfolio .heading h2{
+	color: #fff;
+}
+#portfolio .thumbnail img{
+	width: 100%;
+	height: 100%;
+	filter: grayscale(100%);
+	/*  pour chrome*/
+	-webkit-filter: grayscale(100%);
+}
+#portfolio .thumbnail img:hover{
+	filter: none;
+		/*  pour chrome*/
+	-webkit-filter: none;
+}
