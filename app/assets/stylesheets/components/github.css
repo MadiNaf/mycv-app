@@ -1,19 +1,23 @@
 /*-------------------PORTFOLIO--------------------*/
-#portfolio{
-	background-color:#0BC8B6; 
+.bg-blue, #portfolio{
+	background-color:#0BC8B6 !important; 
 }
 #portfolio .heading h2{
 	color: #fff;
 }
-#portfolio .thumbnail img{
-	width: 100%;
-	height: 100%;
+#portfolio .github img{
+	width: 50%;
 	filter: grayscale(100%);
 	/*  pour chrome*/
 	-webkit-filter: grayscale(100%);
 }
-#portfolio .thumbnail img:hover{
+#portfolio .github img:hover{
 	filter: none;
 		/*  pour chrome*/
 	-webkit-filter: none;
+}
+.content-center{
+
+	display: flex;
+	justify-content: center;	
 }
