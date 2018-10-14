@@ -19,6 +19,13 @@
 #about .heading h3{
 	color: #000;
 }
+.linkedin{
+	width: 1em;
+}
+#linkedin a{
+	text-decoration: none;
+	color: #ECF0F1;	
+}
 .button1{
 	font-weight: bold;
 	text-transform: uppercase;
