@@ -1,0 +1,18 @@
+/*-------------------SKILLS--------------------*/
+#skills{
+	background-color: #FDFEFE;
+}
+#skills .heading h2{
+	color: #0BC8B6;
+}
+#skills .progress{
+	height: 100%;
+	margin: 2em 1em;
+	backface-visibility:#ddd ;
+}
+#skills .progress-bar{
+	background-color: #0BC8B6; 
+}
+#skills .progress h5{
+	text-shadow: 1px 1px 1px #000;
+}

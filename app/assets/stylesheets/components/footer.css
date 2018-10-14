@@ -1,0 +1,18 @@
+/*-------------------FOOTER--------------------*/
+footer{
+	background-color: #333;
+	padding: 2em 0 2em;
+}
+footer .glyphicon{
+	font-size: 2em;
+	margin: 0.4em;
+	color:#0BC8B6;
+	height: 2em;
+}
+footer .glyphicon:hover{
+	font-size: 2.7em;
+}
+footer h5{
+	color: #fff;
+	font-weight: normal;
+}

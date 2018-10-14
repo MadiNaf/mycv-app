@@ -1,0 +1,45 @@
+/*----------------ABOUT----------------*/
+#about{
+	padding-top: 100px;
+	background-color:  #0BC8B6; 
+}
+.profile-picture{
+	text-align: center;
+	margin: 0 auto;
+	float: none;
+
+}
+.img-profile{
+	width: 15em;
+}
+#about .heading h1{
+	color: #ECF0F1;
+	text-transform: uppercase;
+}
+#about .heading h3{
+	color: #000;
+}
+.linkedin{
+	width: 1em;
+}
+#linkedin a{
+	text-decoration: none;
+	color: #ECF0F1;	
+}
+.button1{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #ECF0F1;
+	border: 1px solid white;
+	display: inline-block;
+	margin-top: 20px;
+	padding:18px 50px;
+	border-radius: 3px;		
+	/* je diminues le temps d'animation d'1/3 de seconde*/
+	transition: all 0.3s ease-in 0s;
+}
+.button1:hover{
+	background-color:  white;
+	color: #0BC8B6;
+	text-decoration: none;
+}

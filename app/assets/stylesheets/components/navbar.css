@@ -1,0 +1,29 @@
+/*---------------NAVIGATION---------------*/
+.navbar{
+	background-color: #0BC8B6 !important; 
+	font-size: 1em;
+	letter-spacing: 0.4em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.navbar .navbar-nav{
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+.navbar .navbar-collapse{
+	text-align: center;
+}
+.navbar li a{
+	color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a{
+	color: #0BC8B6 !important; 	
+	background-color: #fff !important;
+}
+.navbar-default .navbar-toggle{
+	border-style: none;
+}
+.icon-bar{
+	background-color: #fff !important;
+}

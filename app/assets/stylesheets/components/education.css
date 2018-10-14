@@ -1,0 +1,37 @@
+/*-------------------EDUCATION--------------------*/
+#education{
+	background-color: #FDFEFE;
+}
+#education .heading h2{
+	color: #0BC8B6;
+}
+.education-block{
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 30px;
+	background-color: #ddd;
+	border-radius: 10px;
+	border:2px solid #cccc;
+	margin-bottom: 20px;
+}
+.education-block h5{
+	color: #888;
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+.education-block .glyphicon{
+	font-size: 40px;
+}
+.education-block h3{
+	color: #0BC8B6;
+}
+.education-block h4{
+	margin-bottom: 20px;
+}
+.education-block p{
+	font-weight: bold;
+}
+.education-block .blue-divider{
+	margin-bottom: 20px;
+}
