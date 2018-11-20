@@ -6,7 +6,7 @@
 	color: #fff;
 }
 #portfolio .github img{
-	width: 50%;
+	width: 70%;
 	filter: grayscale(100%);
 	/*  pour chrome*/
 	-webkit-filter: grayscale(100%);
@@ -20,4 +20,9 @@
 
 	display: flex;
 	justify-content: center;	
+}
+
+.mygithub{
+	margin: auto !important;
+    width: 50% !important;
 }
